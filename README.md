@@ -19,9 +19,7 @@ O projeto foi desenvolver uma aplicação em backend usando comandos Docker na C
 
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
 
-- [Docker](https://www.docker.com/): Software de código aberto usado para implantar aplicativos dentro de containers virtuais. 
-
-
+- [Docker](https://www.docker.com/): Software de código aberto usado para implantar aplicativos dentro de containers virtuais.
 
 ## :hammer_and_wrench: Antes de iniciar o projeto.
 
