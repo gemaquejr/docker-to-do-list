@@ -1,6 +1,6 @@
 # Docker Todo List
 
-Essa aplicação foi feita usando um frontend em React pré-desenvolvido pela TRYBE, e nosso objetivo era criar a conexão em backend.
+Essa aplicação foi feita usando um frontend em React pré-desenvolvido pela TRYBE, nosso objetivo era criar a conexão em backend.
 
 ![preview](.github/preview.gif)
 
