@@ -35,7 +35,7 @@ Entra na pasta da aplicação.
 
 ### `docker-compose up -d`
 
-Cria uma imagem para seu código e inicia os serviços definidos.
+Cria uma imagem para o código e inicia os serviços definidos.
 
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
 
