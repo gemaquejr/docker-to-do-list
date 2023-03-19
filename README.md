@@ -37,6 +37,8 @@ Entra na pasta da aplicação.
 
 Cria uma imagem para o código e inicia os serviços definidos.
 
+O comando deve ser feito via terminal no diretório onde está o arquivo docker-compose.yaml.
+
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
 
 ### `docker attach docker_todotests_1`
