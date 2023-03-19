@@ -35,10 +35,10 @@ Entra na pasta da aplicação.
 
 ### `docker-compose up -d`
 
-Sobe e orquestra os containers.
+Cria uma imagem para seu código e inicia os serviços definidos.
+
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
 
 ### `docker attach docker_todotests_1`
 
 Executa todos os testes presentes na aplicação.
-
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
